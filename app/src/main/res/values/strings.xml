@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string-array name="bits_array">
+        <item>8bit</item>
+        <item>10bit</item>
+        <item>12bit</item>
+    </string-array>
+    <string-array name="hex_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+    </string-array>
+</resources>
